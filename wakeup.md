@@ -1,6 +1,6 @@
 ## Wake up
 ---
 Select a choice
-## [stay alone]()
-## [find friends]()
+## [Stay alone]()
+## [Find friends]()
 ---
