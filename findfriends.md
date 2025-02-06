@@ -2,5 +2,5 @@
 ---
 ## [Trust him](trusthim.md)
 
-## [Don't trust him] (donttrusthim.md)
+## [Don't trust him](donttrusthim.md)
 ---
