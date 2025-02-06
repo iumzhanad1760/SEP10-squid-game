@@ -2,5 +2,5 @@
 ---
 Select a choice
 ## [Stay alone]()
-## [Find friends]()
+## [Find friends](findfriends.md)
 ---
