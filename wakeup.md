@@ -1,4 +1,4 @@
-## Wake up
+## You woke up!
 ---
 Select a choice
 ## [stay alone]()
