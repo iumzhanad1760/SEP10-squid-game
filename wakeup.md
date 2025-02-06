@@ -1,6 +1,6 @@
 ## You woke up!
 ---
-## [Stay alone](no-friends/no-friends.md)
+## [Stay alone](no-friends.md)
 
 ## [Find friends](findfriends.md)
 ---
