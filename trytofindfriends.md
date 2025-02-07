@@ -1,4 +1,4 @@
-## You are alone now..
+## ..
 ---
 ## [Try to not play](death.md)
 
