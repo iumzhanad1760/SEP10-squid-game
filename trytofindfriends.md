@@ -1,6 +1,4 @@
-## ..
+## You found someone and won game now rest!
 ---
-## [Try to not play](death.md)
-
-## [Play a game](win.md)
+## [Sleep](wakeup.md)
 ---
