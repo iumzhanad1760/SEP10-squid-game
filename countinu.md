@@ -1,7 +1,6 @@
-
-## You are alone now..
+## You have a choice who to be friends with!
 ---
-## [Trust 001](trust.001)
+## [trust 001](trust001.md)
 
-## [Trust 456](trust.456)
+## [trust 456](trust456.md)
 ---
