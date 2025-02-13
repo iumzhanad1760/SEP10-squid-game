@@ -2,5 +2,5 @@
 ---
 ## [stay 2](stay2.md)
 
-## [leave 2](leave.md)
+## [leave 2](leave2.md)
 ---
